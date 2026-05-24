@@ -40,3 +40,7 @@
 - The majority (over 80%) of orders are placed through major platforms like Amazon, Flipkart, and Myntra.
 - To improve future sales, the report recommends implementing a strategic marketing plan that includes:Targeted digital marketing campaigns specifically for women in the identified age group and regions.
 - Personalized promotions, such as exclusive coupons or discounts, on the top-performing online channels.
+
+# Dashboard
+
+- <a href="https://github.com/vinayjaswal21/Sales-analysis-report/blob/main/excel%20report.pdf">
