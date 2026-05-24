@@ -19,7 +19,7 @@
 - Highest selling category?
 
 # Dashboard Interaction
-- <a href="https://github.com/vinayjaswal21/Sales-analysis-report/blob/main/excel%20report.pdf">Dashboard interaction</a>  
+- <a href="https://github.com/vinayjaswal21/Sales-analysis-report/blob/main/Data%20Analysis.xlsx">Dashboard interaction</a>  
 
 # Process
 - Verify data for any missing values and anomalies, and sort out the same.
