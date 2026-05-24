@@ -42,5 +42,8 @@
 - Personalized promotions, such as exclusive coupons or discounts, on the top-performing online channels.
 
 # Dashboard
+<img width="1366" height="768" alt="report" src="https://github.com/user-attachments/assets/7e5326b2-f049-4f32-9c61-7bed9a18608c" />
+
+
 
 - <a href="https://github.com/vinayjaswal21/Sales-analysis-report/blob/main/excel%20report.pdf">
