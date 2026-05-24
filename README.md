@@ -18,4 +18,5 @@ I created an annual sales report for Vrinda store, so that they can understand t
 - Which channel is contributing to maximum sales?
 - Highest selling category?
 
-  
+# Dashboard Interaction
+- <a href="https://github.com/vinayjaswal21/Sales-analysis-report/blob/main/excel%20report.pdf">Dashboard interaction</a>  
